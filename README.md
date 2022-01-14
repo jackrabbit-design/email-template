@@ -1,4 +1,4 @@
-#About
+# About
 This is [Jackrabbit Design](https://www.jumpingjackrabbit.com)'s basic email repository template for client projects.
 ## How to Use
 You can clone the `/XXX-job_name` folder to create a new HTML email project. The folder contains a basic HTML starter template and an `/images` folder.
